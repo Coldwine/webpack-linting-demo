@@ -1,0 +1,8 @@
+:local(.redButton) {
+  display: inline-block;
+  background: red;
+}
+
+body {
+  background: cornsilk;
+}
